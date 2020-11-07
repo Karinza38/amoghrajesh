@@ -14,6 +14,9 @@
 <a href="https://medium.com/@amoghrajesh1999">
   <img align="left" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="amoghrajesh1999@gmail.com">
+  <img align="left" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br>
 <br>
