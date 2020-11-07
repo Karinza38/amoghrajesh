@@ -13,3 +13,5 @@
 - ⚡ Fun Fact: Most of the developers jump to writing the code once they encounter a problem. Nope, First Solve the problem yourself, then write the code for it.
 
 - 💬 Ask me about Web Development, Data Structures / Algorithms, General Technology related stuff.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=amoghrajesh&theme=dark&show_icons=true)
