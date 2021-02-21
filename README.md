@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey there 👋👋  
 
 ## I am Amogh Rajesh Desai
 
@@ -33,7 +33,7 @@
 
 - 📫 How to reach me: You can reach me out on LinkedIn or through mail. Attaching all of these in the Badges at the top of this Readme.
 
-- ⚡ Fun Fact: Most of the developers jump to writing the code once they encounter a problem. Nope. `First Solve the problem yourself, then write the code for it`
+- ⚡ Fun Fact: Most of the developers jump to writing the code once they encounter a problem. Nope. `First Solve the problem, then write the code for it`
 
 - 💬 Ask me about Web Development, Data Structures / Algorithms, and General Technology related queries.
 <!-- 
