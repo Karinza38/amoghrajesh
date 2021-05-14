@@ -29,13 +29,13 @@
 
 - 🌱 I'm currently focusing on Open Source Software and learning new technologies used in the industry which maybe of use to me at a later point in my career.
 
-- 👯 I’m looking forward to collaborate on any Open Source software that excites me. I will be more than happy to contribute to any Software that I use in my day to day life 😃
+- 👯 I’m looking forward to collaborate on any Open Source software that excites me. I will be more than happy to contribute to any Software that I use in my day to day life. In the end, giving back to the community is something that really matters.
 
-- 📫 How to reach me: You can reach me out on LinkedIn or through mail. Attaching all of these in the Badges at the top of this Readme.
+- 📫 How to reach me: You can reach out to me on LinkedIn or through mail. All these profiles are attached in form of badges in this visual.
 
-- ⚡ Fun Fact: Most of the developers jump to writing the code once they encounter a problem. Nope. `First Solve the problem, then write the code for it`
+- ⚡ Fun(or not so Fun) Fact: Most of the developers jump to writing the code once they encounter a problem to solve. Nope. `First Solve the problem, then write the code for it`
 
-- 💬 Ask me about Web Development, Data Structures / Algorithms, and General Technology related queries.
+- 💬 You can ask me about Web Development, Machine Learning, and General Technology related queries.
 <!-- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoghrajesh&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
