@@ -20,10 +20,7 @@
 
 <br>
 <br>
-<!-- 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=amoghrajesh"/> 
-</p> -->
+
 
 - 🔭 I'm a Final Year student in Computer Science Engineering based in Bangalore, India. I am a Full Stack Developer with my interests lying in Web Development, Backend Development, Machine Learning, and Data Analysis.
 
@@ -36,16 +33,6 @@
 - ⚡ Fun(or not so Fun) Fact: Most of the developers jump to writing the code once they encounter a problem to solve. Nope. `First Solve the problem, then write the code for it`
 
 - 💬 You can ask me about Web Development, Machine Learning, and General Technology related queries.
-<!-- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amoghrajesh&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amoghrajesh&theme=dark&show_icons=true)
-<!-- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghrajesh&theme=dark&layout=compact"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amoghrajesh&theme=dark&show_icons=true"/>
-</a> -->
 
