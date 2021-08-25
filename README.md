@@ -26,7 +26,7 @@
 
 - 🌱 I'm currently focusing on Open Source Software and learning new technologies used in the industry which maybe of use to me at a later point in my career.
 
-- 👯 I’m looking forward to collaborate on any Open Source software that excites me. I will be more than happy to contribute to any Software that I use in my day to day life. In the end, giving back to the community is something that really matters.
+- 🎶 I’m looking forward to collaborate on any Open Source software that excites me. I will be more than happy to contribute to any Software that I use in my day to day life. In the end, giving back to the community is something that really matters.
 
 - 📫 How to reach me: You can reach out to me on LinkedIn or through mail. All these profiles are attached in form of badges in this visual.
 
