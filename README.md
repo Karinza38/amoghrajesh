@@ -22,7 +22,7 @@
 <br>
 
 
-- 🔭 I'm a Final Year student in Computer Science Engineering based in Bangalore, India. I am a Full Stack Developer with my interests lying in Web Development, Backend Development, Machine Learning, and Data Analysis.
+- 🔭 I'm a Software Engineer based out of Bangalore, India. I am a Full Stack Developer with my interests lying in Web Development, Backend Development, Machine Learning, and Data Analysis.
 
 - 🌱 I'm currently focusing on Open Source Software and learning new technologies used in the industry which maybe of use to me at a later point in my career.
 
