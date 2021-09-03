@@ -1,6 +1,6 @@
 # Hey there 👋👋  
 
-## I am Amogh Rajesh Desai
+## I am Amogh Desai
 
 <a href="https://twitter.com/AmoghDesai1999">
   <img align="left" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
